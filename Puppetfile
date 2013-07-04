@@ -33,3 +33,8 @@ github "sudo",       "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "osx", "1.3.2"
+github "iterm2",     "1.0.2"
+github "zsh", "1.0.0"
+github "prezto", "1.0.1", :repo => "archfear/puppet-prezto"
+#github "bitnami-mamp", "1.0.1", :repo => "jondwillis/puppet-bitnami-mamp"
